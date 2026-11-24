@@ -10,7 +10,29 @@ RDPanic is a self-hosted Remote Desktop (RDP) gateway and centralized session br
 Users can connect to remote machines in two ways:
 1. **Native Windows RDP Client (`mstsc.exe`):** Direct launch using secure one-time launch tokens and protocol handling, giving users full native desktop performance, multi-monitor support, and peripherals.
 2. **In-Browser Web RDP (HTML5):** Zero-install browser access rendered directly via an HTML5 canvas engine, perfect for quick access from laptops, Macs, Chromebooks, or locked-down machines.
+---
 
+## 🖥️ Interface & Feature Preview
+
+### 📊 Centralized Admin Dashboard
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b0e663de-3a34-4c9c-a12c-6e586564b238" alt="RDPanic Admin Dashboard" width="100%">
+</p>
+
+### 🌐 In-Browser HTML5 Web RDP Session
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/059c5850-bad1-42b1-9b28-82975702b7f6" alt="In-Browser Web RDP" width="100%">
+</p>
+
+### 🔄 Integrated System Update & Release Checker
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5294d29f-ef78-4d5e-aac9-33be9de94a37" alt="System Update Management" width="100%">
+</p>
+
+### 👥 Granular Access Control & Server Groups
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bb1cb3d3-d707-4a0c-a697-668a2d78be1c" alt="Server & User Management" width="100%">
+</p>
 ---
 
 ## What RDPanic Does
